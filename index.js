@@ -1,4 +1,4 @@
-var file = require('lodash');
+var _ = require('lodash');
 var chalk       = require('chalk');
 var jsonfile = require('jsonfile')
 var file = 'data.json'
